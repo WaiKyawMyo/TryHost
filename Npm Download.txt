@@ -1,0 +1,14 @@
+Backend 
+1 express (type )
+2 nodemon D
+3 dotenv
+4 mongoose
+5 cors   (type)
+6 ts-node
+7 tsc --init (like init -y)
+8. typescript
+
+
+frontend 
+1. vite down (npm i)
+2. tailwind 
