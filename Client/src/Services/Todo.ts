@@ -5,7 +5,7 @@ let API_URL =""
 if(import.meta.env.VITE_MODE==="development"){
     API_URL = import.meta.env.VITE_LOCAL_API_URL
 }
-if(import.meta.env.VITE_MODE===""){
+if(import.meta.env.VITE_MODE==="production"){
     API_URL = import.meta.env.VITE_API_URL
 }
 console.log("api",API_URL)
